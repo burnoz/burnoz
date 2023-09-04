@@ -1,4 +1,6 @@
 ### Hi there 👋
+Estudiante de ITC en el Tecnológico de Monterrey.
+
 
 <!--
 **burnoz/burnoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
